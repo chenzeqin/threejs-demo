@@ -1,4 +1,4 @@
-import{s as ja,a4 as Za}from"./framework.BU7m5Tfg.js";/**
+import{s as ja,a4 as Za}from"./framework.DstARwHN.js";/**
  * @license
  * Copyright 2010-2022 Three.js Authors
  * SPDX-License-Identifier: MIT
